@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
-
+Java8Recipes.iml
+.DS_Store
+lib
+out
+.idea
 # Log file
 *.log
 
